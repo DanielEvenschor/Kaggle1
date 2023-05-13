@@ -1,1 +1,2 @@
-# Kaggle1
+# Kaggle competition
+https://www.kaggle.com/competitions/spaceship-titanic/overview 
